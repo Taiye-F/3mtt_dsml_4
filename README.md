@@ -18,7 +18,7 @@ Tech tools:
 •	Programming Language: Python
 •	Deep Learning Frameworks: TensorFlow 
 •	Data Handling & Visualization: NumPy, Pandas, Matplotlib, Seaborn
-•	Environment: Google Colab
+•	Environment: Jupiter Notebook
 
 Project Structure
 boat-classification/
